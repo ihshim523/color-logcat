@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ihshim523/color-logcat/issues"
   },
-  "homepage": "https://github.com/ihshim523/color-logcat#readme"
+  "homepage": "https://github.com/ihshim523/color-logcat#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
