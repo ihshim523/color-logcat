@@ -2,7 +2,7 @@
 
 pipe in logcat and colorize output
 
-git clone https://github.com/ihshim523/color-logcat/tree/master
+git clone https://github.com/ihshim523/color-logcat.git
 
 cd color-logcat
 
