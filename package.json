@@ -1,0 +1,23 @@
+{
+  "name": "color-logcat",
+  "version": "1.0.0",
+  "description": "piping logcat input and colorize output",
+  "main": "color-logcat.js",
+  "scripts": {
+    "test": "adb logcat | node color-logcat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihshim523/color-logcat.git"
+  },
+  "keywords": [
+    "logcat",
+    "color"
+  ],
+  "author": "Michael Shim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihshim523/color-logcat/issues"
+  },
+  "homepage": "https://github.com/ihshim523/color-logcat#readme"
+}
